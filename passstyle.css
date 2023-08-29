@@ -1,0 +1,77 @@
+
+body{
+	background-color:dbd8e3;
+}
+
+H1{
+	color:352f44;
+	text-align:center;
+	font-size:40px;
+	font-style:italic;
+	font-family:Georgia, serif;
+}
+#container{
+	border: gray double 10px;
+	width:1230px;
+	height:600px;
+	text-align:center;
+}
+hr{
+	border: 2px solid gray;
+}
+
+#sidebar{
+	float:right;
+	position:absolute;
+	top:127;
+	left:850;
+	border: gray solid 3px;
+	width:350px;
+	height:440px;
+	margin:20px;
+}
+
+#pp{
+	border: gray solid 3px;
+	width:800px;
+	height:440px;
+	margin:25px;
+}
+
+h2{
+	text-align:center;
+	color:5c5470;
+	font-style:italic;
+	font-family:Georgia, serif;
+}
+
+h3{
+	margin:15px;
+	font-family:Georgia, serif;
+}
+
+#also{
+	margin:15px;
+	font-family:Georgia, serif;
+	color:gray;
+}
+
+#main{
+	margin:15px;
+	font-family:Georgia, serif;
+	color:black;
+}
+
+.container input[type="password"],
+.container bottom {
+	margin:10px;
+}
+
+input{
+	width:10%;
+	height:5%;
+}
+bottom{
+	width:10%;
+	height:5%;
+}
